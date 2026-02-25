@@ -7,4 +7,4 @@ I tried to gather as many classical ciphers as I could in one place, exploring h
 While exploring the subdirectories of this repo, imagine yourself walking through a museum where masterpieces are displayed on the walls. Even though these algorithms are no longer used in practice, they remain true gems in the history of cryptography.
 
 
-g2f1
+**g2f1**

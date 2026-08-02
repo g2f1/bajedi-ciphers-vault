@@ -1,3 +1,8 @@
 This section summarizes the terminology and abbreviations used throughout this study.
 
 -  **Cryptosystem** : The suite of cryptographic algorithms needed to implement a particular security service, such as confidentiality. Mathimatically cryptosystem or encryption scheme is defined as the tuple $(\mathcal{P}, \mathcal{C}, \mathcal{K}, \mathcal{E}, \mathcal{D})$ where $\mathcal {P}$ is a set called the "plaintext space". Its elements are called plaintexts, $\mathcal {C}$ is a set called the "ciphertext space". Its elements are called ciphertexts, $\mathcal {K}$ is a set called the "key space". It regroup all the possible keys, $\mathcal{E} = \{E_k \mid k \in \mathcal{K}\}$: set of encryption functions where $E_k : \mathcal{P} \rightarrow \mathcal{C}$, $\mathcal{D} = \{D_k \mid k \in \mathcal{K}\}$: set of decryption functions where $D_k : \mathcal{C} \rightarrow \mathcal{P}$. For every $e \in \mathcal{K}$, there exists a corresponding $d \in \mathcal{K}$ such that $D_d(E_e(p)) = p$ for all $p \in \mathcal{P}$.
+-  **Cipher** :
+-  **Code** :
+-  **Anagram** :
+-  **Cryptogram** :
+-  **Ideograms** :

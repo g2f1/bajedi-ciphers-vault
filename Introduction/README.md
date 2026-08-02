@@ -1,4 +1,4 @@
-Before introducing the ciphers that are the focus of this study, it is useful to first present the general classification of cryptographic algorithms. The figure below illustrates a commonly used classification of cryptographic algorithms, separating them into **classical** and **modern** ciphers (![source](https://www.researchgate.net/figure/Classification-of-cryptographic-algorithms_fig4_330440535)).
+Before introducing the ciphers that are the focus of this study, it is useful to first present the general classification of cryptographic algorithms. The figure below illustrates a commonly used classification of cryptographic algorithms, separating them into **classical** and **modern** ciphers ([source](https://www.researchgate.net/figure/Classification-of-cryptographic-algorithms_fig4_330440535)).
 
 ![classification](../assets/classifcation.png)
 
